@@ -1,6 +1,3 @@
-# Word-Count
-Django...
-
 * First, we created a file named views.py and imported it into the Urls.py because Views is a url.... 
 
 * So once the user does not enter a url after the home page, It takes them to the views.home that we created in the views.py file.
